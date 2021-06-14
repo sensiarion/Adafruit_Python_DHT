@@ -111,4 +111,4 @@ def pi_version():
         return 3
     else:
         # Something else, not a pi.
-        return None
+        return 3
